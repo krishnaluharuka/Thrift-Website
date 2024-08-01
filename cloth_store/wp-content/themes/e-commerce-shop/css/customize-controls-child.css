@@ -1,0 +1,46 @@
+/* Premium Features Css */
+#customize-control-ecommerce_shop_sec_premium_info, 
+#customize-control-ecommerce_shop_slider_premium_info{
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #a9a1a1;
+  box-shadow: 0px 0px 12px #a9a1a1;
+  width: auto;
+  margin-bottom: 25px;
+}
+#customize-control-ecommerce_shop_sec_premium_info .customize-control-title,
+#customize-control-ecommerce_shop_slider_premium_info .customize-control-title{
+  font-size: 18px;
+  font-weight: 800;
+  color: #000000;
+  border-bottom: 1px dashed #000000;
+  margin-bottom: 15px;
+}
+#customize-control-ecommerce_shop_sec_premium_info ul,
+#customize-control-ecommerce_shop_slider_premium_info ul{
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+#customize-control-ecommerce_shop_sec_premium_info ul li,
+#customize-control-ecommerce_shop_slider_premium_info ul li{
+  list-style: circle;
+  font-style: normal;
+}
+#customize-control-ecommerce_shop_sec_premium_info a,
+#customize-control-ecommerce_shop_slider_premium_info a{
+  color: #000000;
+  border: 1px solid #a9a1a1;
+  border-radius: 5px;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+}
+#customize-control-ecommerce_shop_sec_premium_info a:hover,
+#customize-control-ecommerce_shop_slider_premium_info a:hover{
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
